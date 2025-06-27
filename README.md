@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zxuan</h1>
 <h3 align="center">A passionate developer creating awesome things</h3>
 
-- 🔭 I’m currently working on **create a web with elegance and effectiveness**
+- 🔭 I’m currently working on **Create a web with elegance and effectiveness**
 
-- 👯 I’m looking to collaborate on **create tools to make oprek easier**
+- 👯 I’m looking to collaborate on **Create tools to make oprek easier**
 
-- 🤝 I’m looking for help with **comingsoon**
+- 🤝 I’m looking for help with **Social media**
 
 - 📫 How to reach me **imanuelgiovano78@gmail.com**
 
